@@ -27,6 +27,7 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Las aplicaciones ofrecen información turística de la ciudad de Sevilla como museos, monumentos y lugares de interés en general. Se ha seleccionado la aplicación **visitasevilla.es** ya que tras un análisis específico, dónde se han estudiado características como información sobre la movilidad, horarios, reserva directa de entradas, localización en mapa o agenda actualizada con eventos programados, se ha comprobado que cumple satisfactoriamente la mayoría de los requisitos, superando a cualquier otra aplicación con el mismo objetivo. 
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
