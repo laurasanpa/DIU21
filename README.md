@@ -38,9 +38,10 @@ Se han elegido personas de edad "joven" atendiendo al grupo de edad más probabl
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Se han elegido estas experiencias de usuario por ser descriptivas del comportamiento de los usuarios con perfil similar al de las personas modeladas. Aunque no se adaptan a las experiencias más comunes de uso de la aplicación, modelan experiencias de usuario reales.  
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![ScreenShot](
+![ScreenShot](
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
