@@ -40,8 +40,8 @@ Se han elegido personas de edad "joven" atendiendo al grupo de edad más probabl
 ----
 Se han elegido estas experiencias de usuario por ser descriptivas del comportamiento de los usuarios con perfil similar al de las personas modeladas. Aunque no se adaptan a las experiencias más comunes de uso de la aplicación, modelan experiencias de usuario reales.  
 
-![ScreenShot](
-![ScreenShot](
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P1/JOURNEY1.png)
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P1/JOURNEY2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
