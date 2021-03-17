@@ -33,6 +33,8 @@ Las aplicaciones ofrecen información turística de la ciudad de Sevilla como mu
 -----
 Se han elegido personas de edad "joven" atendiendo al grupo de edad más probable de los clientes. Ambas describen el perfil de un potencial cliente, creíble y con características comunes con la personalidad de los posibles clientes.
 
+https://github.com/laurasanpa/DIU21/blob/master/P1/PERSONA1.png
+https://github.com/laurasanpa/DIU21/blob/master/P1/PERSONA2.png
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
