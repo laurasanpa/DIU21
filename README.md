@@ -31,8 +31,8 @@ Las aplicaciones ofrecen información turística de la ciudad de Sevilla como mu
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Se han elegido personas de edad "joven" atendiendo al grupo de edad más probable de los clientes. Ambas describen el perfil de un potencial cliente, creíble y con características comunes con la personalidad de los posibles clientes.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
