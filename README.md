@@ -44,12 +44,15 @@ Se han elegido estas experiencias de usuario por ser descriptivas del comportami
 ![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P1/JOURNEY2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Usability Review: https://github.com/laurasanpa/DIU21/blob/master/P1/usability-review.pdf
+Valoración final: 76.
+Briefing:
+   En base a la calificación obtenida en la usability review, 76/100, podemos afirmar que la
+   aplicación guiasevilla.es cumple los requisitos básicos de los usuarios, permite la rápida
+   identificación y localización de la información y ofrece a los usuarios una experiencia
+   satisfactoria al utilizar la aplicación. Sin embargo, deben perfilarse otros aspectos y
+   funcionalidades más específicas, como la posibilidad de búsqueda, filtros, creación y acceso
+   a cuentas.
 
 
 ## Paso 2. UX Design  
