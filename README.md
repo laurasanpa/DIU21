@@ -44,8 +44,11 @@ Se han elegido estas experiencias de usuario por ser descriptivas del comportami
 ![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P1/JOURNEY2.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
 Usability Review: https://github.com/laurasanpa/DIU21/blob/master/P1/usability-review.pdf
+
 Valoración final: 76.
+
 Briefing:
    En base a la calificación obtenida en la usability review, 76/100, podemos afirmar que la
    aplicación guiasevilla.es cumple los requisitos básicos de los usuarios, permite la rápida
