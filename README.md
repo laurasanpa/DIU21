@@ -5,11 +5,12 @@ Grupo: DIU2.matemáticos.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+SevillaFácil
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Se trata de una aplicación de turismo semejante a una red social. SevillaFácil permite a turistas y visitantes de la ciudad de Sevilla conocer cuáles son los lugares más emblemáticos de la ciudad, ofrecer una guía gastronómica y una agenda con eventos culturales. Además permitirá tanto a visitantes como a locales comentar mediante posts públicos y participar de las actividades culturales y de ocio propuestas. Como funcionalidad extra para usuarios con necesidades específicas, como movilidad reducida, familias con niños, se ofrece información sobre accesibilidad o disponibilidad de recursos.
+
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -82,7 +83,7 @@ Briefing:
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
