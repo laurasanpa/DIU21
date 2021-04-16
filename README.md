@@ -84,6 +84,8 @@ Briefing:
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/scope_canvas_relleno.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
