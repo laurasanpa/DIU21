@@ -89,9 +89,22 @@ SevillaFácil, la aplicación que permite a turistas y visitantes de la ciudad d
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Esquema: https://github.com/laurasanpa/DIU21/blob/master/P2/Main.pdf
+Boceto
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20Main.png)
 
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20Post.png)
+
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20eventos.png)
+
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20guardados.png)
+
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20posts.png)
+
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Boceto%20reservas.png)
+
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/BocetoLugares.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
