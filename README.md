@@ -66,19 +66,9 @@ Briefing:
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/ideacion.png)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+SevillaFácil, la aplicación que permite a turistas y visitantes de la ciudad de Sevilla conocer cuáles son los lugares más emblemáticos de la ciudad, ofrecer una guía gastronómica y una agenda con eventos culturales. Además permitirá tanto a visitantes como a locales comentar mediante posts públicos y participar de las actividades culturales y de ocio propuestas. Como funcionalidad extra para usuarios con necesidades específicas, como movilidad reducida, familias con niños, se ofrece información sobre accesibilidad o disponibilidad de recursos, así como la posibilidad de filtrar el contenido por precio, valoraciones, fecha o accesibilidad.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -89,19 +79,12 @@ Briefing:
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
-
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/task.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P2/Tabla5.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
