@@ -112,36 +112,74 @@ Boceto
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P3/moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P3/landing_page.png)
 
-
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+**Introducción:**
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Recordemos que nuestra aplicación busca principalmente dos cosas, conectar a distintas personas entorno a una actividad, luego la parte social es fundamental, y esa actividad en concreto que es moverse por Sevilla en tiempo y espacio, luego ubicarse en todo momento debería estar a mano, además de conocer tus planes reservados.
+
+**Principios:**
+
+**Claridad:** Todos los elementos de la aplicación siguen un patrón muy claro, fondo claro, dentro de la gama de colores de la paleta elegida, texto oscuro, ya sea negro o gris dependiendo de la relevancia de la información y el diseño. 
+**Socialización:** Uno de los principales objetivos de la aplicación es que los usuarios obtengan de otros usuarios y de forma fácil y sencilla información de los productos que se ofrecen. Por tanto, se ofrecen en las publicaciones la valoración total, la posibilidad de comentar y valorar. 
+**Búsqueda:** Para facilitar la búsqueda se incluyen opciones de búsqueda mediante texto y filtrado.
+**Organización:** Las publicaciones se encuentran organizadas en secciones bien identificadas, con nombres e imágenes representativos.
+**Ubicación: ** Para favorecer que los usuarios sepan en todo momento dónde se encuentran, los iconos tanto de la barra principal inferior como los de búsqueda o configuración cambiarán el fondo a color verde, indicando en qué punto de la aplicación está el usuario. 
+**Horizontalidad:** Nos vendemos como una forma de turismo alternativo y social, hay que alejarse de decirle al cliente cómo debe visitar la ciudad, sino permitirle a él descubrirla.
+**Inmediatez:** Debe poder descubrir qué pasa ahora en Sevilla, para ello se habilitó la sección de eventos, de forma que con un simple golpe de vista se pueden identificar en el calendario, mediante código de colores, los eventos disponibles. 
+**Cercanía:** Hay que mostrarle opciones que se ajusten a su poder adquisitivo, intereses y que procedan de un feedback de su actividad con la app, no meramente información plana.
+
+
+**Componentes:**
+
+**Modo de navegación**: Para esto hemos elegido una barra inferior con iconos distribuidos de forma lateral, dejando arriba a la derecha un hueco para volver hacia atrás y arriba a la derecha las opciones. Los iconos que se muestran corresponden con cada una de las funcionalidades:  (De izquierda a derecha)	
+Explora: Icono de ubicación.
+Eventos: Icono de calendario.
+Mi perfil: Icono de usuario.
+Guardados: Icono de corazón.
+Agenda: Icono de guardar.
+
+**Explora:** Se accede mediante un icono de ubicación. En la parte superior, se mostrarán el icono de “volver” (izquierda), título de la sección (centro) y el icono de búsqueda (derecha). El centro de la pantalla está ocupado por cuatro enlaces a las diferentes secciones, que tendrán un botón de avanzar en la parte derecha de cada uno de los gaps en los que van incluidas las secciones. Las publicaciones en cada una de las secciones se mostrarán en listas deslizables, con fondo blanco, tamaño de letra mediano y la fotografía asociada al post ocupa ⅗ del ancho total de la pantalla.
+
+**Eventos:** Debe ser llamativo pero no agobiante, con pocos días visibles ya que está muy orientado al turismo, luego a planes próximos. Se accede mediante un icono de calendario. Se mostrará en la parte central superior de la pantalla un calendario (a modo de google calendar) que contendrá los eventos programados cada día. 
+Se deberá poder seleccionar un día y en la parte inferior se mostrará una lista deslizable con los enlaces a las publicaciones de cada una de las actividades.
+
+**Mi perfil:** Se accede mediante el icono usuario de la barra inferior. Se mostrarán las secciones relacionadas con el perfil, en colores claros y con iconos representativos de cada una de ellas. Al acceder a cada una de las secciones, descenderán los contenidos, en divisiones más oscuras que enlazan con cada uno de los post. 
+
+**Guardados:** Se mostrará un listado deslizable con los enlaces a las publicaciones guardadas (pulsando el botón del corazón de la publicación). El listado se verá igual que la página principal.
+
+**Título y logo de la app:** Al estar en la página principal no existe botón “atrás”, el logo aparecerá en la cabecera, parte izquierda y de forma circular, así mismo, en la parte superior derecha se encontrará el botón que da acceso a la configuración. 
+En el centro se mostrarán una lista de cuatro publicaciones, con el mismo estilo que las publicaciones de la sección explora.
+
+**Agenda:** La interfaz es muy similar a la de Eventos, sin embargo, sólo se mostrarán los eventos reservados por el usuario. 
+
+**Publicación:** Fondo blanco, de longitud superior al largo de la pantalla, por lo que debe ser deslizable. La parte superior contiene una imagen representativa del post del ancho total de la pantalla. Bajo ella los iconos de “guardar”, “comentar” y “valorar” en la parte izquierda y la valoración de la publicación junto a una estrella en la parte derecha.
+Justo debajo el título del post en negrita y tamaño de letra 20.
+El contenido del post se mostrará con la misma fuente, pero regular y tamaño 13.
+Por último,al fondo de la publicación se mostrará (si procede) un botón de reservar que da acceso a la plataforma de pago o web externa de pago, según el caso.
+
+**Pago:** Contendrá selectores en gris, de forma rectangular de esquinas redondeadas. Aparecerán los botones de pago con paypal y tarjeta de crédito al final de la pantalla en la parte izquierda.
+
+**Filtros:** Contiene un buscador y selectores del mismo estilo que la sección de pagos. 
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+En el enlace puede ver el layout
+https://github.com/laurasanpa/DIU21/blob/master/P3/Layout.zip
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
