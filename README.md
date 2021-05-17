@@ -180,7 +180,7 @@ https://github.com/laurasanpa/DIU21/blob/master/P3/Layout.zip
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
+Enlace al video: https://github.com/laurasanpa/DIU21/blob/master/diu2.mp4
 
 ## Paso 4. Evaluación 
 
