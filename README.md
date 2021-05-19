@@ -129,12 +129,19 @@ Recordemos que nuestra aplicación busca principalmente dos cosas, conectar a di
 **Principios:**
 
 **Claridad:** Todos los elementos de la aplicación siguen un patrón muy claro, fondo claro, dentro de la gama de colores de la paleta elegida, texto oscuro, ya sea negro o gris dependiendo de la relevancia de la información y el diseño. 
+
 **Socialización:** Uno de los principales objetivos de la aplicación es que los usuarios obtengan de otros usuarios y de forma fácil y sencilla información de los productos que se ofrecen. Por tanto, se ofrecen en las publicaciones la valoración total, la posibilidad de comentar y valorar. 
+
 **Búsqueda:** Para facilitar la búsqueda se incluyen opciones de búsqueda mediante texto y filtrado.
+
 **Organización:** Las publicaciones se encuentran organizadas en secciones bien identificadas, con nombres e imágenes representativos.
-**Ubicación: ** Para favorecer que los usuarios sepan en todo momento dónde se encuentran, los iconos tanto de la barra principal inferior como los de búsqueda o configuración cambiarán el fondo a color verde, indicando en qué punto de la aplicación está el usuario. 
+
+**Ubicación:** Para favorecer que los usuarios sepan en todo momento dónde se encuentran, los iconos tanto de la barra principal inferior como los de búsqueda o configuración cambiarán el fondo a color verde, indicando en qué punto de la aplicación está el usuario. 
+
 **Horizontalidad:** Nos vendemos como una forma de turismo alternativo y social, hay que alejarse de decirle al cliente cómo debe visitar la ciudad, sino permitirle a él descubrirla.
+
 **Inmediatez:** Debe poder descubrir qué pasa ahora en Sevilla, para ello se habilitó la sección de eventos, de forma que con un simple golpe de vista se pueden identificar en el calendario, mediante código de colores, los eventos disponibles. 
+
 **Cercanía:** Hay que mostrarle opciones que se ajusten a su poder adquisitivo, intereses y que procedan de un feedback de su actividad con la app, no meramente información plana.
 
 
