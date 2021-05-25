@@ -117,7 +117,7 @@ Boceto
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P3/landing_page.png)
+![ScreenShot](https://github.com/laurasanpa/DIU21/blob/master/P3/landingpage.jpg)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
