@@ -194,43 +194,40 @@ Enlace al video: https://github.com/laurasanpa/DIU21/blob/master/diu2.mp4
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+Aplicación web basada en el turismo gastronómico en Granada, donde los usuarios podrán acceder a la información sobre los bares granadinos y conocer diferentes rutas gastronómicas. Además permite a los usuarios registrados comentar y valorar su experiencia en los bares y restaurantes de la ciudad. 
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+---- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alicia Parra  | M / 49   | Ama de casa | Baja        | Preocupado   | Móvil      | B
+| Marta López   | M / 21   | Estudiante  | Media       | Timido       | Móvil      | B
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+Usuario 1:
+![image](https://user-images.githubusercontent.com/22996414/120216429-4b76d180-c237-11eb-9420-46e4243a17c6.png)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Usuario 2:
+![image](https://user-images.githubusercontent.com/22996414/120216491-634e5580-c237-11eb-99cd-26374d9a468d.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+**Valoración A/B Test**
 
+Considerando la propuesta A como la aplicación “SevillaFácil” y como propuesta B la aplicación “Eatgr” y tras los resultados obtenidos en los cuestionarios sus se ha determinado que la aplicación Eatgr tiene mayor grado de usabilidad, aunque los usuarios hayan determinado que “preferirían usar a menudo” la propuesta “SevillaFácil”. 
+
+Cabe destacar que este A/B test no tendría sentido puesto que las propuestas son totalmente diferentes y cubren aspectos muy distintos. Sus objetivos, funciones y productos no son los mismos, ni comparables. 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+Enlace a usability report:
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+https://github.com/laurasanpa/DIU21/blob/master/P4/P4_UsabReport_Eatgr_doneby_DIU3_matem%C3%A1ticos.docx.pdf
 
 
 ## Paso 5. Evaluación de Accesibilidad  
